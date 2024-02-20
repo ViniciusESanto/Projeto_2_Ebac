@@ -49,13 +49,14 @@ form input {
 }
 
 form button {
-    background-color: rgb(7, 168, 7);
+    background-color: rgb(28, 29, 28);
     color: #fff;
     font-size: 24px;
     font-weight: bold;
     border: none;
     cursor: pointer;
     padding: 8px;
+    border-radius: 7px;
 }
 
 table {
@@ -84,7 +85,6 @@ table td img {
     padding: 8px;
     font-weight: bold;
     color: #fff;
-    background-color: #000;
     border-radius: 3px;
 }
 
